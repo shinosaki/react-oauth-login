@@ -1,7 +1,7 @@
 {
   "name": "react-oauth-login",
   "version": "1.0.0",
-  "description": "",
+  "description": "A lightweight React library for OAuth 2.0 authentication and token management",
   "license": "MIT",
   "author": {
     "name": "shinosaki",
